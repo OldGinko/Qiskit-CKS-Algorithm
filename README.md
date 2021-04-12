@@ -12,7 +12,10 @@ U|Ψ> = exp(2πiϕ)|Ψ> <br />
 This algorithm returns ϕ and thus the eigenvalue. (See here for more: https://arxiv.org/abs/quant-ph/0610214v2)
 
 <ins>What it doesn't (yet):</ins><br />
-The calculated eigenvalues for 3x3 or bigger matrices are bugged and returns undesired values. 
+The calculated eigenvalues for 3x3 or bigger matrices are bugged and returns undesired values. <br />
+Add imaginary numbers as input<br />
+Show EW in GUI
+
 
 <ins>Why we need Phase_Estimation_IPE.py:</ins><br />
 After running Phase_Estimation_IPE.py our System gets prepared into the state  we need for the next step of implementing the CKS algorithm, 
