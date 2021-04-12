@@ -3,7 +3,8 @@ Here we try to build the CKS algorithm for systems of linear equations with expo
 (see here for more https://arxiv.org/abs/1511.02306)
 
 <ins>How to use it:</ins><br />
-Run GUI.py 
+Run GUI.py
+It is based on the Kivy language, an installation guide can be found here https://kivy.org/doc/stable/gettingstarted/installation.html
 
 <ins>What it does:</ins><br />
 Phae_Estimation_IPE.py is an implementation of Iterative Phase Estiamation (IPE). When given an unitary U and an eigenstate of U denoted by |Ψ> such that:
