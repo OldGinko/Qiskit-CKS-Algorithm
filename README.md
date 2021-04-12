@@ -7,8 +7,8 @@ Run GUI.py<br />
 It is based on the Kivy language, an installation guide can be found here https://kivy.org/doc/stable/gettingstarted/installation.html
 
 <ins>What it does:</ins><br />
-Phae_Estimation_IPE.py is an implementation of Iterative Phase Estiamation (IPE). When given an unitary U and an eigenstate of U denoted by |Ψ> such that:
-U|Ψ> = exp(2πiϕ)|Ψ> 
+Phase_Estimation_IPE.py is an implementation of Iterative Phase Estiamation (IPE). When given an unitary U and an eigenstate of U denoted by |Ψ> such that:<br />
+U|Ψ> = exp(2πiϕ)|Ψ> <br />
 This algorithm returns ϕ and thus the eigenvalue. (See here for more: https://arxiv.org/abs/quant-ph/0610214v2)
 
 <ins>What it doesn't (yet):</ins><br />
