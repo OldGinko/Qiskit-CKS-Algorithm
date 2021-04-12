@@ -3,7 +3,7 @@ Here we try to build the CKS algorithm for systems of linear equations with expo
 (see here for more https://arxiv.org/abs/1511.02306)
 
 <ins>How to use it:</ins><br />
-Run GUI.py
+Run GUI.py<br />
 It is based on the Kivy language, an installation guide can be found here https://kivy.org/doc/stable/gettingstarted/installation.html
 
 <ins>What it does:</ins><br />
