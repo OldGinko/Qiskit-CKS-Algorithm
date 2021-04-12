@@ -14,7 +14,7 @@ This algorithm returns ϕ and thus the eigenvalue. (See here for more: https://a
 <ins>What it doesn't (yet):</ins><br />
 The calculated eigenvalues for 3x3 or bigger matrices are bugged and returns undesired values. <br />
 Add imaginary numbers as input<br />
-Show EW in GUI
+Show eigenvalue in GUI for 2 x 2 matrices
 
 
 <ins>Why we need Phase_Estimation_IPE.py:</ins><br />
