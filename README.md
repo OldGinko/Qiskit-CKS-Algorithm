@@ -15,7 +15,7 @@ This algorithm returns ϕ and thus the eigenvalue in the Python shell (for now).
 The calculated eigenvalues are bugged and return undesired values. Needs to be solved. <br />
 Add imaginary numbers as input<br />
 Show eigenvalue in GUI for 2 x 2 matrices<br />
-As of now the GUI has to be termianted with the task manager. Add exit button in the future. 
+As of now the GUI has to be termianted with the task manager. Add exit button in the future. <br />
 GUI has to be run twice to display correct images. Make it display correct images with first run.
 
 
