@@ -17,3 +17,7 @@ The calculated eigenvalues for 3x3 or bigger matrices are bugged and returns und
 After running Phase_Estimation_IPE.py our System get prepared into the state that we need for the next step of implementing the CKS algorithm, 
 namely implementing the inverse of the input matrix A with Hamiltonmian Simulation.
 
+<ins>Installing Qiskit:</ins><br />
+To run the Phyton files you need to have Qiskit installed. Following the tutorial in Qiskit's main page will do it:
+https://qiskit.org/documentation/getting_started.html
+
