@@ -1,6 +1,7 @@
 # Qiskit-Childs-Kothari-Somma Quantum (CKS) algorithm 
-Here we try to build the CKS algorithm for systems of linear equations with exponentially improved dependence on precision  on Qiskit
-(see here for more https://arxiv.org/abs/1511.02306)
+Here we try to build the first step of the CKS algorithm called Gapped Phase Estimation, a low-precision variant of phase estimation.
+This process need a majority vote to function. Since I could not implement a majority vote yet we are using Iterative Phase Estiamtion (IPE,
+see below for more) for now which gives the desired output up to a small difference.
 
 <ins>How to use it:</ins><br />
 Run GUI.py<br />
